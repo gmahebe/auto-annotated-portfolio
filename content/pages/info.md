@@ -14,13 +14,14 @@ sections:
     colors: colors-f
     backgroundSize: full
     text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+      ## I'm a seasoned Full Stack Developer with a passion for crafting dynamic and 
+      efficient web solutions. I've mastered the art of turning complex concepts into 
+      seamless, user-friendly applications. My expertise, coupled with a keen eye for 
+      detail, has allowed me to contribute to the success of diverse projects, from 
+      e-commerce platforms to robust web applications.
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/aboutll.jpg
       altText: Hero image
     styles:
       self:
