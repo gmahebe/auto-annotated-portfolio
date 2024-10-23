@@ -239,7 +239,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [gmahebe@gmail.com](mailto:gmahebe@gmail.com)
   - type: DividerSection
     styles:
       self:
@@ -258,25 +258,25 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: |-
-          **Current**
+          **2021-2023**
 
-          * freelance @freelance.me
+          * Full Stack Developer @SovTech
 
-          **2018-2021**
+          **2016 Aug to 2020 Aug**
 
-          * fullstack at this startup
+          * Software Developer @GAAP POS
 
-          **2015**
+          **2015 Jun to 2016 July**
 
-          * senior front-end at this place
+          * Web Developer @ Digital Leap
 
-          **2013**
+          **2013 Aug - 2015 May**
 
-          * intern developer at a big company
+          * Web developer @ Kukaya Business Solutions
 
-          **2011**
+          **2010 Nov - 2013 July**
 
-          * flipping burgers
+          * Web developer @ opticom Systems
         styles:
           self:
             textAlign: left
@@ -288,17 +288,17 @@ sections:
       - type: FeaturedItem
         subtitle: 'Education:'
         text: |-
-          **2015-2018**
+          **2001-2002**
 
-          * ba computer sciense at a semi fancy school
+          * diploma in information technology sciense at NIIT
 
-          **2014**
+          **2021**
 
-          * react certificate somewhere
+          * oracle cloud foundation 
 
-          **2011**
+          * oracle cloud solution architect
 
-          * my highschool
+          
         styles:
           self:
             textAlign: left
