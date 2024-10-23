@@ -207,21 +207,21 @@ sections:
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: 'PHP'
       - type: Label
-        label: React
+        label: MySQL
       - type: Label
-        label: Microsoft Office
+        label: Laravel
       - type: Label
         label: Next.js
       - type: Label
         label: Netlify
       - type: Label
-        label: Pancakes
+        label: React
       - type: Label
-        label: C++
+        label: NodeJS
       - type: Label
-        label: Swift
+        label: MongoDb
   - type: DividerSection
     styles:
       self:
