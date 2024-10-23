@@ -260,7 +260,7 @@ sections:
         text: |-
           **2021-2023**
 
-          * Full Stack Developer @SovTech
+          * Full Stack Developer @ SovTech
 
           **2016 Aug to 2020 Aug**
 
@@ -288,9 +288,15 @@ sections:
       - type: FeaturedItem
         subtitle: 'Education:'
         text: |-
-          **2001-2002**
+          **2002**
 
-          * diploma in information technology sciense at NIIT
+          * diploma in information technology science at NIIT
+
+          **2004**
+
+          * certificate in linux administration
+
+          * certificate in VB programming
 
           **2021**
 
