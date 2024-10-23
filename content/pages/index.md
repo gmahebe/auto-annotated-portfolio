@@ -20,9 +20,9 @@ sections:
       with React and NodeJS together with Next and MongoDB. I feel like a 
       sperhoero when I write code because i get to work on some cool projects.
     subtitle: >-
-      Welcome to my page where i hope to impress you with some cool projects I 
-      have worked on. I will try and answer any questions you migh have about me.
-      You can continue to scroll down to see more details and credentials about me.
+      Welcome to my page where I hope to impress you with some cool projects I 
+      have worked on. You can continue to scroll down to see more details and 
+      credentials about me.
     styles:
       self:
         height: auto
