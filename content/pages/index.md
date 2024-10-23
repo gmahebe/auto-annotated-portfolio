@@ -14,11 +14,15 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a full stack (LAMP & MERN) developer.
+      I’m a Full Stack (LAMP & MERN) developer. I started off with Java and 
+      moved on to ASP.net before PHP which I have  used for a long time. I 
+      then got into the modrem Javascript frameworks and have been working 
+      with React and NodeJS together with Next and MongoDB. I feel like a 
+      sperhoero when I write code because i get to work on some cool projects.
     subtitle: >-
       Welcome to my page where i hope to impress you with some cool projects I 
-      have worked on over the past few years. You can continue to scroll down 
-      to see more details and credentials about me.
+      have worked on. I will try and answer any questions you migh have about me.
+      You can continue to scroll down to see more details and credentials about me.
     styles:
       self:
         height: auto
