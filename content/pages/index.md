@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: >-
-      I’m a full stack developer working with LAMP and MERN.
+      I’m a full stack (LAMP & MERN) developer.
     subtitle: >-
       Welcome to my page where i hope to impress you with some cool projects I 
       have worked on over the past few years. You can continue to scroll down 
