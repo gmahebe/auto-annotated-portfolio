@@ -15,13 +15,12 @@ sections:
     backgroundSize: full
     text: >-
       ## I'm a seasoned Full Stack Developer with a passion for crafting dynamic and 
-      efficient web solutions. I've mastered the art of turning complex concepts into 
-      seamless, user-friendly applications. My expertise, coupled with a keen eye for 
+      efficient web solutions. My expertise, coupled with a keen eye for 
       detail, has allowed me to contribute to the success of diverse projects, from 
       e-commerce platforms to robust web applications.
     media:
       type: ImageBlock
-      url: /images/aboutll.jpg
+      url: /images/contact.jpg
       altText: Hero image
     styles:
       self:
