@@ -223,6 +223,10 @@ sections:
         label: NodeJS
       - type: Label
         label: MongoDb
+      - type: Label
+        label: Wordpress
+      - type: Label
+        label: CSS    
   - type: DividerSection
     styles:
       self:
