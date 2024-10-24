@@ -25,18 +25,18 @@ sections:
       have been working with React and NodeJS together with Next and MongoDB. I feel like a 
       superhero when I write code because I get to work on some cool projects.
 
-        text: |-
-          **Some Websites I have developed for clients:**
+    text: |-
+      **Some Websites I have developed for clients:**
 
-          * www.rebelsafetygear.com
+      * www.rebelsafetygear.com
 
-          * www.jackalcreekgolf.co.za
+      * www.jackalcreekgolf.co.za
 
-          * www.litigator.co.za
+      * www.litigator.co.za
 
-          * www.urbannation.co.za
+      * www.urbannation.co.za
 
-          * www.naturesvines.com
+      * www.naturesvines.com
 
     styles:
       self:
