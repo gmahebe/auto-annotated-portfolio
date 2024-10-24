@@ -140,9 +140,19 @@ sections:
       - type: Label
         label: 'PHP'
       - type: Label
+        label: Laravel
+      - type: Label
+        label: Rest API
+      - type: Label
+        label: Backend
+      - type: Label
+        label: Frontend
+      - type: Label
         label: MySQL
       - type: Label
-        label: Laravel
+        label: MS SQL
+      - type: Label
+        label: JavaScript                
       - type: Label
         label: Next.js
       - type: Label
@@ -156,7 +166,11 @@ sections:
       - type: Label
         label: Wordpress
       - type: Label
-        label: CSS    
+        label: CSS 
+      - type: Label
+        label: Linux
+      - type: Label
+        label: Apache             
   - type: DividerSection
     styles:
       self:
