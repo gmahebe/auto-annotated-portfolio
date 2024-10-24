@@ -21,20 +21,22 @@ sections:
       credentials about me.
 
       I started off with Java and moved on to ASP.net before PHP which I have  
-      used for a long time. I then got into the modrem Javascript frameworks and have been working with React and NodeJS together with Next and MongoDB. I feel like a 
+      used for a long time. I then got into the moderm Javascript frameworks and 
+      have been working with React and NodeJS together with Next and MongoDB. I feel like a 
       superhero when I write code because I get to work on some cool projects.
-    subtitle: >-
-      Some Websites I have developed for clients:
-    subtitle: >-
-      > www.rebelsafetygear.com
-    subtitle: >-
-      > www.jackalcreekgolf.co.za
-    subtitle: >-
-      > www.litigator.co.za
-    subtitle: >-
-      > www.urbannation.co.za
-    subtitle: >-
-      > www.naturesvines.com
+
+        text: |-
+          **Some Websites I have developed for clients:**
+
+          * www.rebelsafetygear.com
+
+          * www.jackalcreekgolf.co.za
+
+          * www.litigator.co.za
+
+          * www.urbannation.co.za
+
+          * www.naturesvines.com
 
     styles:
       self:
@@ -47,7 +49,7 @@ sections:
           - mr-0
         padding:
           - pt-16
-          - pb-18
+          - pb-16
           - pl-4
           - pr-4
         alignItems: center
