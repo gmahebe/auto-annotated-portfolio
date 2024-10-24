@@ -23,7 +23,7 @@ sections:
       I started off with Java and moved on to ASP.net before PHP which I have  
       used for a long time. I then got into the modrem Javascript frameworks and have been working with React and NodeJS together with Next and MongoDB. I feel like a 
       superhero when I write code because I get to work on some cool projects.
-
+    subtitle: >-
       Some Websites I have developed for clients:
 
       > www.rebelsafetygear.com
