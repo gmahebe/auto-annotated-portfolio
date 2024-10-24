@@ -25,15 +25,15 @@ sections:
       superhero when I write code because I get to work on some cool projects.
     subtitle: >-
       Some Websites I have developed for clients:
-
+    subtitle: >-
       > www.rebelsafetygear.com
-
+    subtitle: >-
       > www.jackalcreekgolf.co.za
-
+    subtitle: >-
       > www.litigator.co.za
-
+    subtitle: >-
       > www.urbannation.co.za
-
+    subtitle: >-
       > www.naturesvines.com
 
     styles:
